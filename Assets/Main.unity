@@ -373,6 +373,112 @@ MonoBehaviour:
   boneReference: 10
   subPath: Ear.001.L
   attachmentMode: 2
+--- !u!1 &464493458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 464493459}
+  - component: {fileID: 464493461}
+  - component: {fileID: 464493460}
+  m_Layer: 0
+  m_Name: Shinon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &464493459
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 464493458}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1099192311}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &464493460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 464493458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef83cb0c23d4d7c9d41021e544a1978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuToAppend: {fileID: 0}
+  installTargetMenu: {fileID: 0}
+--- !u!114 &464493461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 464493458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c267e6edf81d843a4178a7a739e4ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AvatarToggleMenu:
+    IncludeAssetType: 3
+    TransitionSeconds: 0
+    Saved: 1
+    Synced: 1
+    ParameterName: 
+    InternalParameter: 0
+    PhysBoneAutoResetDisabledObjects:
+      values: []
+    ToggleObjects:
+      keys:
+      - Shinon
+      values: 01000000
+    ToggleObjectUsings:
+      keys: []
+      values: 
+    ToggleMaterials:
+      keys1: []
+      keys2: 
+      values: []
+    ToggleBlendShapes:
+      keys1: []
+      keys2: []
+      values: []
+    ToggleShaderParameters:
+      keys1: []
+      keys2: []
+      values: []
+    ToggleShaderVectorParameters:
+      keys1: []
+      keys2: []
+      values: []
+    ToggleValues:
+      keys1: []
+      keys2: []
+      values: []
+    Positions:
+      keys: []
+      values: []
+    Rotations:
+      keys: []
+      values: []
+    Scales:
+      keys: []
+      values: []
+    ToggleDefaultValue: 0
+    ToggleIcon: {fileID: 0}
 --- !u!1 &520769361
 GameObject:
   m_ObjectHideFlags: 0
@@ -818,6 +924,63 @@ MonoBehaviour:
   boneReference: 9
   subPath: 
   attachmentMode: 2
+--- !u!1001 &1697897223
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1196135828297054, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_Name
+      value: GestureManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364010554535032, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2cd7c2d73a12a214b930125a1ca4ed33, type: 3}
 --- !u!1 &1702407407
 GameObject:
   m_ObjectHideFlags: 0
@@ -3479,6 +3642,36 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
         type: 3}
+      propertyPath: animationHashSet.Array.data[95].hash
+      value: 1916980083
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[95].name
+      value: Blend Tree
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[96].hash
+      value: -131779744
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[96].name
+      value: Breast size
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[97].hash
+      value: -131779744
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[97].name
+      value: Breast size
+      objectReference: {fileID: 0}
+    - target: {fileID: 8745346484765752846, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
       propertyPath: baseAnimationLayers.Array.data[0].isDefault
       value: 0
       objectReference: {fileID: 0}
@@ -3851,7 +4044,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 9100000, guid: b9ee7b6520a91dc459a9fd29ef423e91, type: 2}
     - target: {fileID: 8745346484765752952, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
         type: 3}
       propertyPath: colliders.Array.size
@@ -4050,6 +4243,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 653321592}
+    - targetCorrespondingSourceObject: {fileID: 9139790695397136469, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 464493459}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b89e95e5295d8ba4cb44201d6e3c6d51, type: 3}
 --- !u!1660057539 &9223372036854775807
@@ -4060,3 +4257,4 @@ SceneRoots:
   - {fileID: 676069026}
   - {fileID: 6963478261628177042}
   - {fileID: 1139062562}
+  - {fileID: 1697897223}

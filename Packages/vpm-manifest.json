@@ -20,6 +20,12 @@
     },
     "jp.whiteflare.unlitwf": {
       "version": "2.6.0"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.3"
+    },
+    "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
+      "version": "1.28.1"
     }
   },
   "locked": {
@@ -67,6 +73,19 @@
     "jp.whiteflare.unlitwf.texpack": {
       "version": "1.3.0",
       "dependencies": {}
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.3",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.5.2 < 3.8.X"
+      }
+    },
+    "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
+      "version": "1.28.1",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.0.9",
+        "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
+      }
     }
   }
 }
