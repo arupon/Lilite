@@ -1,0 +1,34 @@
+{
+    "name": "SakuraScript.TMARelay.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:62ced99b048af7f4d8dfe4bed8373d76",
+        "GUID:fc900867c0f47cd49b6e2ae4ef907300",
+        "GUID:c56dffa57fcf236488ad6740f23257cc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "TMARELAY_HAS_NDMF",
+        "TMARELAY_HAS_MA"
+    ],
+    "versionDefines": [
+        {
+            "name": "nadena.dev.ndmf",
+            "expression": "",
+            "define": "TMARELAY_HAS_NDMF"
+        },
+        {
+            "name": "nadena.dev.modular-avatar",
+            "expression": "",
+            "define": "TMARELAY_HAS_MA"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,32 @@
+# TMARelay v0.1c時点で未実装ですが、いつか使う時のために…
+# muscles[]の添え字ごとの送出先　ExParameter をカスタマイズできるようにするファイルです。
+# 行頭に0～95の数字とタブがあり、その後 "" でくくられた文字列があるる行のみ反映されます。(タブは1つだけ、空白文字不可）
+# それ以外の行は無視されます。 (だからコメントの行頭に#はなくても大丈夫ですが一応）
+# (厳密には、tabの前は ParseInt できればOK、tabの後は1つめの " と 2つめの " の間を読めればOK、ただし、 "の前にタブ2つは不可、です）
+
+0	"/avatar/parameters/TMARelay_SpineFrontBack"
+1	"/avatar/parameters/TMARelay_SpineLeftRight"
+2	"/avatar/parameters/TMARelay_SpineTwistLeftRight"
+3	"/avatar/parameters/TMARelay_ChestFrontBack"
+4	"/avatar/parameters/TMARelay_ChestLeftRight"
+5	"/avatar/parameters/TMARelay_ChestTwistLeftRight"
+9	"/avatar/parameters/TMARelay_NeckNodDownUp"
+10	"/avatar/parameters/TMARelay_NeckTiltLeftRight"
+11	"/avatar/parameters/TMARelay_NeckTurnLeftRight"
+12	"/avatar/parameters/TMARelay_HeadNodDownUp"
+13	"/avatar/parameters/TMARelay_HeadTiltLeftRight"
+14	"/avatar/parameters/TMARelay_HeadTurnLeftRight"
+39	"/avatar/parameters/TMARelay_UpperArmL_DownUp"
+40	"/avatar/parameters/TMARelay_UpperArmL_FrontBack"
+41	"/avatar/parameters/TMARelay_UpperArmL_Twist"
+42	"/avatar/parameters/TMARelay_LowerArmL_Stretch"
+43	"/avatar/parameters/TMARelay_LowerArmL_Twist"
+44	"/avatar/parameters/TMARelay_HandL_DownUp"
+45	"/avatar/parameters/TMARelay_HandL_InOut"
+48	"/avatar/parameters/TMARelay_UpperArmR_DownUp"
+49	"/avatar/parameters/TMARelay_UpperArmR_FrontBack"
+50	"/avatar/parameters/TMARelay_UpperArmR_Twist"
+51	"/avatar/parameters/TMARelay_LowerArmR_Stretch"
+52	"/avatar/parameters/TMARelay_LowerArmR_Twist"
+53	"/avatar/parameters/TMARelay_HandR_DownUp"
+54	"/avatar/parameters/TMARelay_HandR_InOut"

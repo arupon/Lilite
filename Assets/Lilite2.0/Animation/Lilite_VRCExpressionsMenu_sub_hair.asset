@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Lilite_VRCExpressionsMenu_sub_hair
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Hair_back
+    icon: {fileID: 0}
+    type: 201
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 80af3c1bb522af0419bec6deaa148cb7, type: 2}
+    subParameters:
+    - name: Hair_back
+    - name: Hair_back_narrow
+    labels:
+    - name: narrow
+      icon: {fileID: 0}
+    - name: long
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: short
+      icon: {fileID: 0}
+  - name: Hair_bang
+    icon: {fileID: 0}
+    type: 201
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Hair_bang
+    - name: Hair_bang_center
+    labels:
+    - name: long(center)
+      icon: {fileID: 0}
+    - name: long
+      icon: {fileID: 0}
+    - name: short(center)
+      icon: {fileID: 0}
+    - name: short
+      icon: {fileID: 0}
