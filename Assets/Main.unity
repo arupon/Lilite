@@ -448,7 +448,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &653321592
 Transform:
   m_ObjectHideFlags: 0
@@ -880,7 +880,7 @@ MonoBehaviour:
   AvatarToggleMenu:
     IncludeAssetType: 3
     TransitionSeconds: 0
-    Saved: 1
+    Saved: 0
     Synced: 1
     ParameterName: 
     InternalParameter: 0
