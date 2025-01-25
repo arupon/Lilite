@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Lilite_VRCExpressionsMenu 1
   m_EditorClassIdentifier: 
-  Parameters: {fileID: 11400000, guid: 083d800f320e3df4dae1aeb508546b61, type: 2}
+  Parameters: {fileID: 11400000, guid: 5692231f86a20e0458d79a9b26b9539a, type: 2}
   controls:
   - name: Costume
     icon: {fileID: 0}
@@ -53,4 +53,15 @@ MonoBehaviour:
     style: 0
     subMenu: {fileID: 11400000, guid: a0fb58ef4a2131e4dbc072341dc3b711, type: 2}
     subParameters: []
+    labels: []
+  - name: Add_Breath
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a0fb58ef4a2131e4dbc072341dc3b711, type: 2}
+    subParameters:
+    - name: Add_Breath
     labels: []

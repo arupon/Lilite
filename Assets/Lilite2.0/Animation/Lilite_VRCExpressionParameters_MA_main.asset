@@ -89,3 +89,8 @@ MonoBehaviour:
     saved: 1
     defaultValue: 0
     networkSynced: 1
+  - name: Add_Breath
+    valueType: 1
+    saved: 1
+    defaultValue: 0.2
+    networkSynced: 1
