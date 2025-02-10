@@ -26,6 +26,9 @@
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
       "version": "1.28.1"
+    },
+    "com.anatawa12.avatar-optimizer": {
+      "version": "1.8.5"
     }
   },
   "locked": {
@@ -85,6 +88,13 @@
       "dependencies": {
         "com.vrchat.avatars": ">=3.0.9",
         "nadena.dev.modular-avatar": ">=1.0.0 <2.0.0-a"
+      }
+    },
+    "com.anatawa12.avatar-optimizer": {
+      "version": "1.8.5",
+      "dependencies": {
+        "nadena.dev.ndmf": "^1.6.0",
+        "com.vrchat.avatars": ">=3.7.0 <3.8.0"
       }
     }
   }

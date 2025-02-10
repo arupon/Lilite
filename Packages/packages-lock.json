@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.anatawa12.avatar-optimizer": {
+      "version": "file:com.anatawa12.avatar-optimizer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.github.kurotu.vrc-quest-tools": {
       "version": "file:com.github.kurotu.vrc-quest-tools",
       "depth": 0,

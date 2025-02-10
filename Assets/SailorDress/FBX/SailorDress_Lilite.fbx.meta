@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 22a25bf636ecae94880f1d05a3e54843
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SailorDressMaterial.002
+    second: {fileID: 2100000, guid: 1038becfe3526774d817e8a0543cc96e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 8
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperArm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerArm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperLeg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SailorDress(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: SailorDress(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Armature
+      position: {x: -9.205442e-17, y: -0.027886217, z: 0.9200363}
+      rotation: {x: 0.70710665, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skirt_root
+      parentName: Hips
+      position: {x: 1.03411764e-16, y: 0.1368326, z: -0.013706288}
+      rotation: {x: 1, y: -1.2735127e-15, z: 0.00000004371139, w: -0.00000019470718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.001
+      parentName: Skirt_root
+      position: {x: -0.004482928, y: 0.040644143, z: -0.1187297}
+      rotation: {x: -0.11685054, y: 0.016759075, z: 0.0061367536, w: 0.9929891}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.002
+      parentName: SailorDress.001
+      position: {x: -0, y: 0.036705494, z: 0.0000000440632}
+      rotation: {x: 0.019768145, y: -0.009684078, z: 0.026413899, w: 0.9994087}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: SailorDress.003
+      parentName: SailorDress.002
+      position: {x: -0.000000005122274, y: 0.0361699, z: 0.000000015250407}
+      rotation: {x: 0.013420365, y: 0.020363208, z: -0.034290783, w: 0.99911433}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: SailorDress.004
+      parentName: SailorDress.003
+      position: {x: -0, y: 0.05454533, z: -0.000000027095666}
+      rotation: {x: -0.02037051, y: 0.04226893, z: -0.041692413, w: 0.99802816}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: SailorDress.005
+      parentName: SailorDress.004
+      position: {x: -0.0000000030267984, y: 0.06327665, z: -0.000000036816346}
+      rotation: {x: 0.0011069592, y: 0.00093934947, z: -0.0006127651, w: 0.99999875}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: SailorDress.006
+      parentName: SailorDress.005
+      position: {x: -0.0000000018626451, y: 0.0713955, z: 0.000000016880222}
+      rotation: {x: -0.086289145, y: -0.15929212, z: 0.06039766, w: 0.9815968}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: SailorDress.007
+      parentName: Skirt_root
+      position: {x: -0.044723522, y: 0.041289542, z: -0.110984445}
+      rotation: {x: -0.0900078, y: 0.17043474, z: 0.042097487, w: 0.9803461}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.008
+      parentName: SailorDress.007
+      position: {x: -0, y: 0.03666842, z: -0.000000020489097}
+      rotation: {x: -0.00000039394942, y: -0.00000007892958, z: -9.313226e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: SailorDress.009
+      parentName: SailorDress.008
+      position: {x: -0, y: 0.0366684, z: -0.000000007450581}
+      rotation: {x: 0.011028387, y: 0.02651251, z: -0.04347123, w: 0.99864197}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: SailorDress.010
+      parentName: SailorDress.009
+      position: {x: 0.0000000037252903, y: 0.05504236, z: 0.000000009313226}
+      rotation: {x: -0.03352665, y: 0.054369193, z: -0.050739046, w: 0.9966672}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999998}
+    - name: SailorDress.011
+      parentName: SailorDress.010
+      position: {x: -0.000000007450581, y: 0.065924406, z: -0.000000007450581}
+      rotation: {x: -0.012213315, y: -0.038861617, z: 0.022624422, w: 0.99891376}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: SailorDress.012
+      parentName: SailorDress.011
+      position: {x: 0.000000007450581, y: 0.070503436, z: 0.000000009313226}
+      rotation: {x: -0.04592929, y: 0.09304943, z: -0.034594193, w: 0.9939998}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: SailorDress.013
+      parentName: Skirt_root
+      position: {x: -0.07798973, y: 0.039512254, z: -0.09956986}
+      rotation: {x: -0.14119801, y: 0.29197565, z: 0.062211614, w: 0.94389784}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: SailorDress.014
+      parentName: SailorDress.013
+      position: {x: -0.000000007450581, y: 0.044903927, z: 0.0000000037252903}
+      rotation: {x: 0.021832634, y: 0.023366362, z: -0.048091132, w: 0.9983309}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: SailorDress.015
+      parentName: SailorDress.014
+      position: {x: -0, y: 0.03066548, z: -0.000000014901161}
+      rotation: {x: -0.010290319, y: -0.0035826084, z: 0.005163061, w: 0.99992734}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.016
+      parentName: SailorDress.015
+      position: {x: -0.000000007450581, y: 0.05489476, z: -0.000000007450581}
+      rotation: {x: 0.06111935, y: 0.012582885, z: -0.012836042, w: 0.9979686}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.017
+      parentName: SailorDress.016
+      position: {x: -0.000000007450581, y: 0.06652853, z: -0.000000011175871}
+      rotation: {x: -0.048324447, y: -0.0004889344, z: 0.00034104422, w: 0.9988315}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: SailorDress.018
+      parentName: SailorDress.017
+      position: {x: -0.000000007450581, y: 0.07412335, z: -0.000000014901161}
+      rotation: {x: 0.04072972, y: 0.32566896, z: -0.16983739, w: 0.9292126}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.019
+      parentName: Skirt_root
+      position: {x: -0.100864634, y: 0.0418844, z: -0.08633152}
+      rotation: {x: -0.11587859, y: 0.38056564, z: 0.04517793, w: 0.916352}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: SailorDress.020
+      parentName: SailorDress.019
+      position: {x: 0.000000007916242, y: 0.03422583, z: 0.000000022351742}
+      rotation: {x: -0.000000031664968, y: 0.000000084837666, z: -0.0000001633307,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: SailorDress.021
+      parentName: SailorDress.020
+      position: {x: 0.0000000055879354, y: 0.03422585, z: -0.000000014901161}
+      rotation: {x: 0.00932019, y: -0.020336946, z: 0.03303172, w: 0.9992039}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.022
+      parentName: SailorDress.021
+      position: {x: -0.0000000037252903, y: 0.060015213, z: 0.000000014901161}
+      rotation: {x: -0.05160352, y: 0.022359231, z: -0.019731725, w: 0.99822235}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: SailorDress.023
+      parentName: SailorDress.022
+      position: {x: -9.313226e-10, y: 0.06524965, z: 0}
+      rotation: {x: 0.063332014, y: 0.07061278, z: -0.04603621, w: 0.9944263}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: SailorDress.024
+      parentName: SailorDress.023
+      position: {x: -0.000000014901161, y: 0.077154025, z: 0.000000044703484}
+      rotation: {x: -0.1324009, y: 0.07358015, z: -0.028143812, w: 0.98806065}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: SailorDress.025
+      parentName: Skirt_root
+      position: {x: -0.10361809, y: 0.033503283, z: -0.032098003}
+      rotation: {x: -0.0807716, y: 0.5380996, z: 0.16768321, w: 0.82207495}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: SailorDress.026
+      parentName: SailorDress.025
+      position: {x: -0, y: 0.040092975, z: -0.000000014901161}
+      rotation: {x: -0.00000012246892, y: -0.00000004656613, z: 0.00000015180558,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.027
+      parentName: SailorDress.026
+      position: {x: 0.000000011175871, y: 0.040093012, z: -0.000000048428774}
+      rotation: {x: -0.07187687, y: -0.056729812, z: 0.06014503, w: 0.9939809}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.028
+      parentName: SailorDress.027
+      position: {x: 0.0000000037252903, y: 0.055612113, z: -0.00000004656613}
+      rotation: {x: 0.028976353, y: -0.002840495, z: 0.0018426535, w: 0.99957436}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.029
+      parentName: SailorDress.028
+      position: {x: -0, y: 0.07935406, z: 0.000000020489097}
+      rotation: {x: 0.013467327, y: 0.20707385, z: -0.09888537, w: 0.97322184}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: SailorDress.030
+      parentName: SailorDress.029
+      position: {x: -0.0000000015133992, y: 0.077173255, z: 0.0000000023283064}
+      rotation: {x: -0.0067150863, y: 0.22261566, z: -0.08115727, w: 0.9714992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.031
+      parentName: Skirt_root
+      position: {x: -0.13959984, y: 0.02367151, z: 0.023121012}
+      rotation: {x: -0.028110627, y: 0.7118562, z: 0.23729204, w: 0.66042644}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.032
+      parentName: SailorDress.031
+      position: {x: -0.000000048428774, y: 0.044791088, z: -0.000000020605512}
+      rotation: {x: -0.00000040419403, y: 0.000000022817405, z: 0.00000011175872,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: SailorDress.033
+      parentName: SailorDress.032
+      position: {x: 0.000000027939677, y: 0.044791076, z: -0.000000021595042}
+      rotation: {x: -0.032310694, y: -0.030005101, z: 0.03554056, w: 0.998395}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: SailorDress.034
+      parentName: SailorDress.033
+      position: {x: 0.000000044703484, y: 0.053792812, z: 0.000000027939677}
+      rotation: {x: -0.014939132, y: 0.04096193, z: -0.03051196, w: 0.998583}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.035
+      parentName: SailorDress.034
+      position: {x: 0.000000033527613, y: 0.08543185, z: -0.00000003958121}
+      rotation: {x: 0.056985997, y: 0.15246938, z: -0.08575824, w: 0.98292994}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: SailorDress.036
+      parentName: SailorDress.035
+      position: {x: 0.000000006519258, y: 0.111809984, z: -0.000000022351742}
+      rotation: {x: 0.12538865, y: 0.24496599, z: -0.14928775, w: 0.94972765}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: SailorDress.037
+      parentName: Skirt_root
+      position: {x: -0.12532112, y: 0.022560967, z: 0.0797136}
+      rotation: {x: -0.024049507, y: 0.8398171, z: 0.20152159, w: 0.5035056}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.038
+      parentName: SailorDress.037
+      position: {x: -0.000000022351742, y: 0.052793607, z: -0.000000033527613}
+      rotation: {x: 0.000000011175871, y: 0.000000042840842, z: 0.0000000018626454,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: SailorDress.039
+      parentName: SailorDress.038
+      position: {x: -0.000000014901161, y: 0.05279366, z: 0.000000037252903}
+      rotation: {x: -0.014345352, y: 0.011883217, z: -0.013296678, w: 0.9997381}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: SailorDress.040
+      parentName: SailorDress.039
+      position: {x: 0.000000022351742, y: 0.053704076, z: 0.000000011175871}
+      rotation: {x: -0.019750852, y: -0.031764332, z: 0.02341378, w: 0.9990259}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: SailorDress.041
+      parentName: SailorDress.040
+      position: {x: -0.000000007450581, y: 0.07099174, z: -0.00000009313226}
+      rotation: {x: 0.1809065, y: 0.087142415, z: -0.06727538, w: 0.97731936}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: SailorDress.042
+      parentName: SailorDress.041
+      position: {x: 0.0000000037252903, y: 0.090769745, z: 0.000000022351742}
+      rotation: {x: -0.011832933, y: 0.063172035, z: -0.04692574, w: 0.9968286}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.043
+      parentName: SailorDress.042
+      position: {x: 0.000000018626451, y: 0.08549925, z: 0}
+      rotation: {x: -0.00012247317, y: 0.11912168, z: -0.06665851, w: 0.99063957}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: SailorDress.044
+      parentName: Skirt_root
+      position: {x: -0.091196455, y: 0.023682615, z: 0.114922225}
+      rotation: {x: 0.010452535, y: 0.9205803, z: 0.17566836, w: 0.34865925}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: SailorDress.045
+      parentName: SailorDress.044
+      position: {x: 0.000000007450581, y: 0.062357143, z: -0.000000022351742}
+      rotation: {x: -0.00000010617076, y: 0.00000006984919, z: 0.00000010430812, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.046
+      parentName: SailorDress.045
+      position: {x: -0.000000014901161, y: 0.062357217, z: 0.000000014901161}
+      rotation: {x: 0.0062508187, y: -0.024932196, z: 0.025817145, w: 0.9993362}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: SailorDress.047
+      parentName: SailorDress.046
+      position: {x: -0.000000022351742, y: 0.043938458, z: -0.000000014901161}
+      rotation: {x: 0.03455897, y: 0.0065533705, z: -0.0055586207, w: 0.99936575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.048
+      parentName: SailorDress.047
+      position: {x: -0.000000014901161, y: 0.10796134, z: -0.000000044703484}
+      rotation: {x: -0.019276502, y: 0.1343387, z: -0.071047, w: 0.98819727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.049
+      parentName: SailorDress.048
+      position: {x: -0.000000014901161, y: 0.079219066, z: -0.000000014901161}
+      rotation: {x: -0.06370538, y: 0.021177862, z: -0.0068122693, w: 0.9977208}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: SailorDress.050
+      parentName: SailorDress.049
+      position: {x: -0.0000000018626451, y: 0.09333478, z: 0.000000052154064}
+      rotation: {x: 0.028611405, y: 0.09502381, z: -0.022097815, w: 0.9948184}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: SailorDress.051
+      parentName: Skirt_root
+      position: {x: -0.009189664, y: 0.027556086, z: 0.13145886}
+      rotation: {x: 0.008626896, y: 0.9903431, z: 0.13327551, w: 0.037198786}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: SailorDress.052
+      parentName: SailorDress.051
+      position: {x: -0.0000000027939677, y: 0.07146012, z: -0.000000020198058}
+      rotation: {x: 0.000000022482707, y: -0.00000003387686, z: 0.000000004190951,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: SailorDress.053
+      parentName: SailorDress.052
+      position: {x: -9.313226e-10, y: 0.07146022, z: -0.000000033294782}
+      rotation: {x: -0.015842585, y: 0.023738123, z: -0.019129299, w: 0.9994096}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: SailorDress.054
+      parentName: SailorDress.053
+      position: {x: 4.656613e-10, y: 0.060152676, z: 7.858034e-10}
+      rotation: {x: -0.012386971, y: -0.001443571, z: 0.0007795481, w: 0.999922}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: SailorDress.055
+      parentName: SailorDress.054
+      position: {x: -9.313226e-10, y: 0.08677295, z: 0.0000000034924597}
+      rotation: {x: 0.036951665, y: 0.025682589, z: -0.0106525235, w: 0.9989302}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: SailorDress.056
+      parentName: SailorDress.055
+      position: {x: 0.0000000018626451, y: 0.08623291, z: -0.00000004307367}
+      rotation: {x: 0.073263906, y: -0.058143754, z: 0.025508078, w: 0.99528944}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: SailorDress.057
+      parentName: SailorDress.056
+      position: {x: 9.313226e-10, y: 0.10086585, z: 0.000000010011718}
+      rotation: {x: -0.02913368, y: -0.054793738, z: 0.020710103, w: 0.9978577}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: SailorDress.058
+      parentName: Skirt_root
+      position: {x: 0.075238675, y: 0.037050508, z: 0.12761909}
+      rotation: {x: -0.008286389, y: 0.9448197, z: 0.16080031, w: -0.28529}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.059
+      parentName: SailorDress.058
+      position: {x: -0.000000007450581, y: 0.05554508, z: -0.000000022351742}
+      rotation: {x: 0.00000012945384, y: -0.00000010244548, z: 0.00000016018748, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.060
+      parentName: SailorDress.059
+      position: {x: -0.000000007450581, y: 0.05554512, z: -0.000000044703484}
+      rotation: {x: 0.017699962, y: 0.034045197, z: -0.03600826, w: 0.9986146}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: SailorDress.061
+      parentName: SailorDress.060
+      position: {x: -0.000000007450581, y: 0.060099546, z: -0.000000022351742}
+      rotation: {x: 0.030810134, y: -0.0033201396, z: 0.002639999, w: 0.99951625}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: SailorDress.062
+      parentName: SailorDress.061
+      position: {x: -0, y: 0.09970479, z: -0.000000014901161}
+      rotation: {x: -0.009291385, y: -0.11078751, z: 0.058935925, w: 0.9920516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.063
+      parentName: SailorDress.062
+      position: {x: 0.0000000055879354, y: 0.08202009, z: 0.000000022351742}
+      rotation: {x: -0.081368506, y: -0.13696644, z: 0.0424545, w: 0.9863149}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: SailorDress.064
+      parentName: SailorDress.063
+      position: {x: -0, y: 0.10126789, z: 0.00000002142042}
+      rotation: {x: 0.108544, y: -0.12804587, z: 0.03728832, w: 0.9851051}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: SailorDress.065
+      parentName: Skirt_root
+      position: {x: 0.11574177, y: 0.034678955, z: 0.09849232}
+      rotation: {x: 0.028289374, y: 0.87450844, z: 0.18681769, w: -0.44669214}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.066
+      parentName: SailorDress.065
+      position: {x: -0.000000007450581, y: 0.046414413, z: -0.000000040978193}
+      rotation: {x: -0.0000003613532, y: -0.00000007916242, z: 0.00000010058285, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: SailorDress.067
+      parentName: SailorDress.066
+      position: {x: -0, y: 0.046414457, z: -0.000000007450581}
+      rotation: {x: 0.012416247, y: 0.044868443, z: -0.053180702, w: 0.9974991}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: SailorDress.068
+      parentName: SailorDress.067
+      position: {x: -0.000000007450581, y: 0.06134399, z: 0.000000007450581}
+      rotation: {x: -0.026424794, y: 0.010395725, z: -0.007899283, w: 0.99956554}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: SailorDress.069
+      parentName: SailorDress.068
+      position: {x: 0.000000022351742, y: 0.075113416, z: 0.000000014901161}
+      rotation: {x: 0.11989923, y: -0.115650855, z: 0.07842098, w: 0.9829035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.070
+      parentName: SailorDress.069
+      position: {x: 0.000000014901161, y: 0.09248486, z: 0.000000022351742}
+      rotation: {x: 0.022590684, y: -0.1518581, z: 0.09848236, w: 0.9832243}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: SailorDress.071
+      parentName: SailorDress.070
+      position: {x: -0.000000007450581, y: 0.08688707, z: 0}
+      rotation: {x: -0.04113633, y: -0.13499725, z: 0.06462138, w: 0.9878804}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: SailorDress.072
+      parentName: Skirt_root
+      position: {x: 0.14127046, y: 0.036410104, z: 0.063290276}
+      rotation: {x: -0.0037876694, y: -0.7871631, z: -0.2359073, w: 0.5698313}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: SailorDress.073
+      parentName: SailorDress.072
+      position: {x: -0.000000011175871, y: 0.041223086, z: 0.000000067055225}
+      rotation: {x: -0.00000043958426, y: 0.00000016763806, z: -0.00000011920929,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.074
+      parentName: SailorDress.073
+      position: {x: -0, y: 0.041223094, z: 0.0000000018626451}
+      rotation: {x: -0.020485034, y: -0.08899622, z: 0.10281877, w: 0.9904991}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.075
+      parentName: SailorDress.074
+      position: {x: -0.000000005122274, y: 0.089903, z: 0.000000033527613}
+      rotation: {x: 0.11272639, y: 0.035452954, z: -0.029184163, w: 0.99256444}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.076
+      parentName: SailorDress.075
+      position: {x: -0.000000014901161, y: 0.0861041, z: -0.000000014901161}
+      rotation: {x: -0.05372528, y: 0.04843499, z: -0.030102724, w: 0.996926}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: SailorDress.077
+      parentName: SailorDress.076
+      position: {x: 0.000000014901161, y: 0.10054253, z: -0.000000026077032}
+      rotation: {x: 0.107201524, y: -0.4971454, z: 0.28234494, w: 0.81340986}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: SailorDress.078
+      parentName: Skirt_root
+      position: {x: 0.12784329, y: 0.043590665, z: 0.006056029}
+      rotation: {x: -0.052350946, y: -0.65965587, z: -0.21573086, w: 0.7180346}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: SailorDress.079
+      parentName: SailorDress.078
+      position: {x: 0.000000008818461, y: 0.039238345, z: -0.00000000903583}
+      rotation: {x: 0.00000002561137, y: 0.000000004656613, z: -0.000000017229468,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.080
+      parentName: SailorDress.079
+      position: {x: 0.000000013504177, y: 0.039238296, z: 0.00000002142042}
+      rotation: {x: 0.027148766, y: 0.017622478, z: -0.020382885, w: 0.99926823}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: SailorDress.081
+      parentName: SailorDress.080
+      position: {x: -0.000000010244548, y: 0.0796437, z: 0}
+      rotation: {x: 0.04345108, y: -0.06297164, z: 0.048224304, w: 0.9959021}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: SailorDress.082
+      parentName: SailorDress.081
+      position: {x: 9.313226e-10, y: 0.08412539, z: 2.3283064e-10}
+      rotation: {x: 0.0921517, y: 0.012936984, z: -0.008968277, w: 0.99562055}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: SailorDress.083
+      parentName: SailorDress.082
+      position: {x: -0.00000002537854, y: 0.07233969, z: 0.000000009487849}
+      rotation: {x: -0.11141573, y: -0.28643626, z: 0.13808005, w: 0.9415279}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.084
+      parentName: Skirt_root
+      position: {x: 0.10090593, y: 0.044737447, z: -0.039007504}
+      rotation: {x: -0.024502706, y: -0.5130592, z: -0.13429002, w: 0.8474291}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: SailorDress.085
+      parentName: SailorDress.084
+      position: {x: -0.000000014901161, y: 0.037930634, z: 0.000000007450581}
+      rotation: {x: -0.000000024214387, y: 0.000000048428777, z: 0.000000044703487,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: SailorDress.086
+      parentName: SailorDress.085
+      position: {x: 0.0000000037252903, y: 0.037930764, z: -0.000000013038516}
+      rotation: {x: -0.112523556, y: 0.0036568393, z: -0.003929911, w: 0.9936346}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: SailorDress.087
+      parentName: SailorDress.086
+      position: {x: 0.000000014901161, y: 0.07449124, z: 0.000000048428774}
+      rotation: {x: 0.0356594, y: 0.0070924596, z: -0.003921841, w: 0.9993311}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: SailorDress.088
+      parentName: SailorDress.087
+      position: {x: -0.000000029802322, y: 0.07170604, z: 0.000000040978193}
+      rotation: {x: 0.04099187, y: -0.0570878, z: 0.027156582, w: 0.9971576}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: SailorDress.089
+      parentName: SailorDress.088
+      position: {x: -0.000000007450581, y: 0.06129091, z: -0.000000009313226}
+      rotation: {x: -0.07396568, y: -0.52896005, z: 0.16814536, w: 0.82852733}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: SailorDress.090
+      parentName: Skirt_root
+      position: {x: 0.09084646, y: 0.04409466, z: -0.0866214}
+      rotation: {x: -0.15656395, y: -0.3558369, z: -0.027088663, w: 0.92094195}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.091
+      parentName: SailorDress.090
+      position: {x: -0, y: 0.036791436, z: -0.000000022351742}
+      rotation: {x: -0.00000041723257, y: 0.000000046566132, z: 0.00000004563481,
+        w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: SailorDress.092
+      parentName: SailorDress.091
+      position: {x: 0.000000014901161, y: 0.03679125, z: 0.000000007450581}
+      rotation: {x: 0.021667501, y: 0.032900184, z: -0.044352263, w: 0.998239}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.093
+      parentName: SailorDress.092
+      position: {x: 0.000000011175871, y: 0.05810949, z: 0.000000029802322}
+      rotation: {x: 0.0019937786, y: -0.03318647, z: 0.029444288, w: 0.9990134}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: SailorDress.094
+      parentName: SailorDress.093
+      position: {x: 0.0000000018626451, y: 0.052744, z: 0.000000022351742}
+      rotation: {x: 0.0451515, y: 0.00074890786, z: -0.0005480692, w: 0.99897975}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: SailorDress.095
+      parentName: SailorDress.094
+      position: {x: 0.000000011175871, y: 0.08711389, z: 0.000000022351742}
+      rotation: {x: -0.12417513, y: -0.22925459, z: 0.09105254, w: 0.96110994}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.096
+      parentName: Skirt_root
+      position: {x: 0.066045426, y: 0.044834234, z: -0.100816846}
+      rotation: {x: -0.12796393, y: -0.2540985, z: -0.057748456, w: 0.95693487}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: SailorDress.097
+      parentName: SailorDress.096
+      position: {x: 0.000000007450581, y: 0.039922453, z: -0.000000033527613}
+      rotation: {x: -0.011213108, y: -0.018394293, z: 0.036141265, w: 0.9991145}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: SailorDress.098
+      parentName: SailorDress.097
+      position: {x: -0.000000029802322, y: 0.038061306, z: -0.000000022351742}
+      rotation: {x: -0.01135493, y: -0.01798824, z: 0.021502279, w: 0.9995425}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: SailorDress.099
+      parentName: SailorDress.098
+      position: {x: 0.000000007450581, y: 0.05348932, z: -0.000000011175871}
+      rotation: {x: 0.03863026, y: -0.022230016, z: 0.018830141, w: 0.9988288}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: SailorDress.100
+      parentName: SailorDress.099
+      position: {x: -0.000000022351742, y: 0.063431665, z: 0.000000018626451}
+      rotation: {x: 0.034873962, y: 0.037214123, z: -0.02592152, w: 0.9983622}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: SailorDress.101
+      parentName: SailorDress.100
+      position: {x: -0, y: 0.07813739, z: -0.000000007450581}
+      rotation: {x: -0.12491118, y: -0.68663055, z: 0.22428454, w: 0.68017066}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: SailorDress.102
+      parentName: Skirt_root
+      position: {x: 0.0419262, y: 0.04772577, z: -0.11270154}
+      rotation: {x: -0.12261865, y: -0.15951465, z: 0.017906552, w: 0.9793871}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SailorDress.103
+      parentName: SailorDress.102
+      position: {x: -0, y: 0.0380521, z: 0.0000000037252903}
+      rotation: {x: -0.0000001238659, y: -0.00000003678724, z: 0.000000025029292,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: SailorDress.104
+      parentName: SailorDress.103
+      position: {x: -0, y: 0.03805203, z: 0.000000016763806}
+      rotation: {x: 0.018437391, y: 0.008676015, z: -0.012075147, w: 0.9997195}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: SailorDress.105
+      parentName: SailorDress.104
+      position: {x: 0.000000007450581, y: 0.052540313, z: 0.000000017695129}
+      rotation: {x: -0.0075602382, y: 0.027312983, z: -0.024945198, w: 0.999287}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: SailorDress.106
+      parentName: SailorDress.105
+      position: {x: -0.0000000037252903, y: 0.058577977, z: 0.000000018626451}
+      rotation: {x: 0.012494418, y: -0.06567212, z: 0.043517865, w: 0.9968136}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: SailorDress.107
+      parentName: SailorDress.106
+      position: {x: 0.000000007450581, y: 0.0687079, z: 0.0000000018626451}
+      rotation: {x: -0.05543403, y: -0.05042135, z: 0.02222881, w: 0.9969407}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -2.0395746e-16, y: 0.046950333, z: -0.0000000011365842}
+      rotation: {x: 0.00000004215508, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: -0, y: 0.09570896, z: -7.0699e-10}
+      rotation: {x: -0.16351871, y: -1.0547293e-15, z: -1.0547294e-15, w: 0.98654026}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Breast_L
+      parentName: Chest
+      position: {x: -0.04920163, y: 0.052654244, z: 0.034630653}
+      rotation: {x: -0.016831968, y: 0.5748226, z: 0.8169271, w: 0.043883916}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Breast_R
+      parentName: Chest
+      position: {x: 0.04920163, y: 0.052654248, z: 0.034630653}
+      rotation: {x: 0.016831968, y: 0.5748226, z: 0.8169271, w: -0.043883916}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: ChestRibbon.001
+      parentName: Chest
+      position: {x: 3.1229713e-16, y: 0.083215855, z: 0.091167845}
+      rotation: {x: 0.9962156, y: 0.056584563, z: -0.004448193, w: 0.06582501}
+      scale: {x: 0.99999803, y: 0.9999998, z: 0.9999972}
+    - name: ChestRibbon.002
+      parentName: ChestRibbon.001
+      position: {x: -0.000000017695129, y: 0.04311625, z: 0.000000041182375}
+      rotation: {x: 0.04290076, y: 0.005291088, z: 0.021571616, w: 0.9988324}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: ChestRibbon.003
+      parentName: ChestRibbon.002
+      position: {x: -0.0000000069849193, y: 0.049284846, z: -0.0000000039754013}
+      rotation: {x: 0.026110834, y: -0.00080067234, z: 0.059684254, w: 0.99787545}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: ChestRibbon.004
+      parentName: ChestRibbon.003
+      position: {x: 0.0000000044237822, y: 0.04944977, z: -0.000000037417067}
+      rotation: {x: -0.024254125, y: 0.00096469326, z: -0.025310505, w: 0.99938494}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: ChestRibbon.005
+      parentName: Chest
+      position: {x: -0.00050880294, y: 0.08353677, z: 0.09127724}
+      rotation: {x: 0.99702513, y: -0.04443064, z: 0.0038491571, w: 0.06286481}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: ChestRibbon.006
+      parentName: ChestRibbon.005
+      position: {x: 0.0000000037252903, y: 0.04719921, z: 0.00000006852315}
+      rotation: {x: 0.06876349, y: -0.0046175206, z: -0.04774701, w: 0.99647903}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: ChestRibbon.007
+      parentName: Chest
+      position: {x: -0.0022048098, y: 0.08401837, z: 0.09144139}
+      rotation: {x: 0.9592916, y: -0.24771535, z: 0.023124445, w: 0.13364896}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: ChestRibbon.008
+      parentName: Chest
+      position: {x: 0.0005088011, y: 0.08417895, z: 0.09149614}
+      rotation: {x: 0.95241535, y: 0.24007076, z: -0.10288057, w: 0.15711975}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Neck
+      parentName: Chest
+      position: {x: -5.222312e-17, y: 0.18321906, z: 0.028989334}
+      rotation: {x: 0.18254699, y: -0.000000117206014, z: -0.000000021761185, w: 0.98319715}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Head
+      parentName: Neck
+      position: {x: 1.2321314e-15, y: 0.06490888, z: 0.000000003259629}
+      rotation: {x: -0.019318158, y: 0.00000011918689, z: 0.0000000023027678, w: 0.9998134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_L
+      parentName: Chest
+      position: {x: -0.04812647, y: 0.15855794, z: -0.0043012835}
+      rotation: {x: -0.4115108, y: 0.41151074, z: 0.5750295, w: 0.57502943}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: UpperArm_L
+      parentName: Shoulder_L
+      position: {x: 0.0000000018626449, y: 0.046550717, z: 8.1484086e-10}
+      rotation: {x: 0.0000006614178, y: -0.000000762693, z: -0.008452987, w: 0.9999643}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: LowerArm_L
+      parentName: UpperArm_L
+      position: {x: -1.8872015e-11, y: 0.17856681, z: 0.00000007320571}
+      rotation: {x: -0.0017612509, y: 0.00004140668, z: 0.024742931, w: 0.9996923}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Hand_L
+      parentName: LowerArm_L
+      position: {x: 8.8766683e-10, y: 0.21086319, z: 0.00000013862984}
+      rotation: {x: 0.001761101, y: 0.000000029870726, z: -0.016291566, w: 0.9998658}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Shoulder_R
+      parentName: Chest
+      position: {x: 0.04812647, y: 0.15855794, z: -0.0043012835}
+      rotation: {x: -0.4115108, y: -0.41151074, z: -0.5750295, w: 0.57502943}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: UpperArm_R
+      parentName: Shoulder_R
+      position: {x: -0.0000000018626454, y: 0.046550717, z: 8.148411e-10}
+      rotation: {x: 0.0000006614178, y: 0.000000762693, z: 0.008452987, w: 0.9999643}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: LowerArm_R
+      parentName: UpperArm_R
+      position: {x: 1.8872015e-11, y: 0.17856681, z: 0.00000007320571}
+      rotation: {x: -0.0017612509, y: -0.00004140668, z: -0.024742931, w: 0.9996923}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Hand_R
+      parentName: LowerArm_R
+      position: {x: -8.8766683e-10, y: 0.21086319, z: 0.00000013862984}
+      rotation: {x: 0.001761101, y: -0.000000029870726, z: 0.016291566, w: 0.9998658}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: UpperLeg_L
+      parentName: Hips
+      position: {x: -0.059266448, y: -0.089784026, z: -0.032819018}
+      rotation: {x: 0.9999842, y: 6.702442e-10, z: -0.00000011920732, w: -0.005622433}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: LowerLeg_L
+      parentName: UpperLeg_L
+      position: {x: 0.0000000034018062, y: 0.3200659, z: 6.260352e-10}
+      rotation: {x: 0.017492011, y: 0.0000005659269, z: -0.00000045021648, w: 0.99984705}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Foot_L
+      parentName: LowerLeg_L
+      position: {x: 2.934737e-10, y: 0.4494436, z: -0.000000002189541}
+      rotation: {x: -0.57046586, y: -0.0000010149296, z: 0.00000039805653, w: 0.8213213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Toe_L
+      parentName: Foot_L
+      position: {x: 0.0000000016228778, y: 0.114559524, z: 1.1554846e-10}
+      rotation: {x: -0.13122994, y: -0.0000015359687, z: 0.00000032937245, w: 0.99135196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLeg_R
+      parentName: Hips
+      position: {x: 0.059266448, y: -0.089784026, z: -0.032819018}
+      rotation: {x: 0.9999842, y: -6.702442e-10, z: 0.00000011920732, w: -0.005622433}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: LowerLeg_R
+      parentName: UpperLeg_R
+      position: {x: -0.0000000034018062, y: 0.3200659, z: 6.260352e-10}
+      rotation: {x: 0.017492011, y: -0.0000005659269, z: 0.00000045021648, w: 0.99984705}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Foot_R
+      parentName: LowerLeg_R
+      position: {x: -2.934737e-10, y: 0.4494436, z: -0.000000002189541}
+      rotation: {x: -0.57046586, y: 0.0000010149296, z: -0.00000039805653, w: 0.8213213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Toe_R
+      parentName: Foot_R
+      position: {x: -0.0000000016228778, y: 0.114559524, z: 1.1554846e-10}
+      rotation: {x: -0.13122994, y: 0.0000015359687, z: -0.00000032937245, w: 0.99135196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eri
+      parentName: SailorDress(Clone)
+      position: {x: -0, y: 0.18460192, z: 0}
+      rotation: {x: -0.70710677, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.4270258, y: 1.4270258, z: 1.4270258}
+    - name: eri2
+      parentName: SailorDress(Clone)
+      position: {x: -0, y: 0.18460192, z: 0}
+      rotation: {x: -0.70710677, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.4270258, y: 1.4270258, z: 1.4270258}
+    - name: main.012
+      parentName: SailorDress(Clone)
+      position: {x: -0, y: 0.21233429, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1.3737116, y: 1.3737116, z: 1.3737116}
+    - name: ribon
+      parentName: SailorDress(Clone)
+      position: {x: -0, y: 0.18460192, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1.0987321, y: 1.0987321, z: 1.0987321}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
