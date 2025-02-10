@@ -2191,12 +2191,12 @@ PrefabInstance:
     - target: {fileID: 5204269927694279061, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5204269927694279061, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
         type: 3}
       propertyPath: m_TagString
-      value: EditorOnly
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 5265325761330505454, guid: b89e95e5295d8ba4cb44201d6e3c6d51,
         type: 3}
