@@ -421,37 +421,37 @@ PrefabInstance:
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.060267653
+      value: 0.0619
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3913004
+      value: 1.3929
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.068385966
+      value: 0.0644
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.52699965
+      value: 0.5189639
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.68741626
+      value: 0.6729901
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.4375508
+      value: 0.4594303
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.24141143
+      value: -0.2582338
       objectReference: {fileID: 0}
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
@@ -466,7 +466,7 @@ PrefabInstance:
     - target: {fileID: 1047402971889007536, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -79.92999
+      value: -83.616
       objectReference: {fileID: 0}
     - target: {fileID: 5646427940543557470, guid: a09eb04e32af5fe44bc4a79bc4f3b8c4,
         type: 3}
@@ -654,6 +654,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LILITE_2.0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8325048675672651239, guid: 510a3ea1dc9b6dd46b152d2c9bd8946c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
