@@ -199,6 +199,12 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
+    "jp.lilxyzw.avatar-utils": {
+      "version": "file:jp.lilxyzw.avatar-utils",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "jp.lilxyzw.liltoon": {
       "version": "file:jp.lilxyzw.liltoon",
       "depth": 0,
