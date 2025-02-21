@@ -29,6 +29,9 @@
     },
     "com.anatawa12.avatar-optimizer": {
       "version": "1.8.5"
+    },
+    "net.narazaka.vrchat.floor-adjuster": {
+      "version": "1.0.5"
     }
   },
   "locked": {
@@ -95,6 +98,12 @@
       "dependencies": {
         "nadena.dev.ndmf": "^1.6.0",
         "com.vrchat.avatars": ">=3.7.0 <3.8.0"
+      }
+    },
+    "net.narazaka.vrchat.floor-adjuster": {
+      "version": "1.0.5",
+      "dependencies": {
+        "nadena.dev.ndmf": ">=1.1.1 <2.0.0-a"
       }
     }
   }

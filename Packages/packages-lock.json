@@ -211,6 +211,23 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "jp.unisakistudio.kawaiiposing": {
+      "version": "file:jp.unisakistudio.kawaiiposing",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "jp.unisakistudio.posingsystem": "2.2.1"
+      }
+    },
+    "jp.unisakistudio.posingsystem": {
+      "version": "file:jp.unisakistudio.posingsystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "nadena.dev.modular-avatar": "1.10.0",
+        "nadena.dev.ndmf": "1.5.0"
+      }
+    },
     "jp.whiteflare.unlitwf": {
       "version": "file:jp.whiteflare.unlitwf",
       "depth": 0,
@@ -239,6 +256,12 @@
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
       "version": "file:net.narazaka.vrchat.avatar-menu-creater-for-ma",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "net.narazaka.vrchat.floor-adjuster": {
+      "version": "file:net.narazaka.vrchat.floor-adjuster",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
