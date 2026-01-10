@@ -8,14 +8,6 @@
         "com.unity.burst": "1.8.7"
       }
     },
-    "com.github.kurotu.vrc-quest-tools": {
-      "version": "file:com.github.kurotu.vrc-quest-tools",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.2"
-      }
-    },
     "com.unity.burst": {
       "version": "1.8.12",
       "depth": 1,
@@ -201,12 +193,6 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
-    "jp.lilxyzw.avatar-utils": {
-      "version": "file:jp.lilxyzw.avatar-utils",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "jp.lilxyzw.liltoon": {
       "version": "file:jp.lilxyzw.liltoon",
       "depth": 0,
@@ -229,18 +215,6 @@
         "nadena.dev.modular-avatar": "1.15.1",
         "nadena.dev.ndmf": "1.10.1"
       }
-    },
-    "jp.whiteflare.unlitwf": {
-      "version": "file:jp.whiteflare.unlitwf",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "jp.whiteflare.unlitwf.texpack": {
-      "version": "file:jp.whiteflare.unlitwf.texpack",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
     },
     "nadena.dev.modular-avatar": {
       "version": "file:nadena.dev.modular-avatar",
