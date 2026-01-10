@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Lilite_VRCExpressionsMenu
   m_EditorClassIdentifier: 
-  Parameters: {fileID: 11400000, guid: 083d800f320e3df4dae1aeb508546b61, type: 2}
+  Parameters: {fileID: 11400000, guid: 1ba78afaeb23ef74bb29cf31fa011af5, type: 2}
   controls:
   - name: Costume
     icon: {fileID: 0}
@@ -21,7 +21,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: 9cda976c515e2d4478c7d8da9c9fe40b, type: 2}
+    subMenu: {fileID: 11400000, guid: 4d81d13c193b84a4f986a9dac1881ada, type: 2}
     subParameters: []
     labels: []
   - name: Hair
@@ -31,7 +31,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: 1dc403877d0e61f4594e28f803108781, type: 2}
+    subMenu: {fileID: 11400000, guid: 62daa988485aabf489acbc282aa26b21, type: 2}
     subParameters: []
     labels: []
   - name: Face
@@ -41,7 +41,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: a8343d5e9edb5b146b79339436c839bc, type: 2}
+    subMenu: {fileID: 11400000, guid: 69e41c5b50d46274b805186f80a27d87, type: 2}
     subParameters: []
     labels: []
   - name: eye
@@ -51,6 +51,6 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: a0fb58ef4a2131e4dbc072341dc3b711, type: 2}
+    subMenu: {fileID: 11400000, guid: 20703d9ca83677a41b87ebd8efbd872a, type: 2}
     subParameters: []
     labels: []

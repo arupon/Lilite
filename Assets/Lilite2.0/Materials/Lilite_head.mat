@@ -53,11 +53,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: 562d17e9a2f8eca4f8596fbf5309b34c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 62c7844e468f904478464e8b716ea1d8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 562d17e9a2f8eca4f8596fbf5309b34c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 62c7844e468f904478464e8b716ea1d8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Bump2ndMap:
@@ -157,7 +157,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 562d17e9a2f8eca4f8596fbf5309b34c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 62c7844e468f904478464e8b716ea1d8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MatCap2ndBlendMask:
@@ -189,7 +189,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineTex:
-        m_Texture: {fileID: 2800000, guid: 562d17e9a2f8eca4f8596fbf5309b34c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 62c7844e468f904478464e8b716ea1d8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineVectorTex:
@@ -197,7 +197,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineWidthMask:
-        m_Texture: {fileID: 2800000, guid: 87585316803c2154e995d7b7cf101442, type: 3}
+        m_Texture: {fileID: 2800000, guid: 250e1cd2590d4c449bde429da72d5e58, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -637,7 +637,7 @@ Material:
     - _egci: 2
     - _lilDirectionalLightStrength: 1
     - _lilShadowCasterBias: 0
-    - _lilToonVersion: 44
+    - _lilToonVersion: 45
     m_Colors:
     - _AudioLinkDefaultValue: {r: 0, g: 0, b: 2, a: 0.75}
     - _AudioLinkLocalMapParams: {r: 120, g: 1, b: 0, a: 0}

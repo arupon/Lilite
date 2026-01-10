@@ -4,7 +4,9 @@
       "version": "file:com.anatawa12.avatar-optimizer",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.unity.burst": "1.8.7"
+      }
     },
     "com.github.kurotu.vrc-quest-tools": {
       "version": "file:com.github.kurotu.vrc-quest-tools",
@@ -216,7 +218,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "jp.unisakistudio.posingsystem": "2.2.1"
+        "jp.unisakistudio.posingsystem": "3.0.3"
       }
     },
     "jp.unisakistudio.posingsystem": {
@@ -224,8 +226,8 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "nadena.dev.modular-avatar": "1.10.0",
-        "nadena.dev.ndmf": "1.5.0"
+        "nadena.dev.modular-avatar": "1.15.1",
+        "nadena.dev.ndmf": "1.10.1"
       }
     },
     "jp.whiteflare.unlitwf": {
@@ -252,7 +254,9 @@
       "version": "file:nadena.dev.ndmf",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.unity.modules.animation": "1.0.0"
+      }
     },
     "net.narazaka.vrchat.avatar-menu-creater-for-ma": {
       "version": "file:net.narazaka.vrchat.avatar-menu-creater-for-ma",

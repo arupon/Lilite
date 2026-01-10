@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Lilite_VRCExpressionsMenu_sub_costume
   m_EditorClassIdentifier: 
-  Parameters: {fileID: 11400000, guid: 5692231f86a20e0458d79a9b26b9539a, type: 2}
+  Parameters: {fileID: 11400000, guid: 98918ca4c6ba19f48af2614d1dd9ae48, type: 2}
   controls:
   - name: Kemono
     icon: {fileID: 0}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Lilite_VRCExpressionsMenu_sub_costume(MA)
   m_EditorClassIdentifier: 
-  Parameters: {fileID: 11400000, guid: ec29ef987438a5d439970745ab87c452, type: 2}
+  Parameters: {fileID: 11400000, guid: 1ba78afaeb23ef74bb29cf31fa011af5, type: 2}
   controls:
   - name: Coat
     icon: {fileID: 0}
